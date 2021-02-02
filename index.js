@@ -10,7 +10,7 @@ app.use(cors())
 app.use(bodyparser.json())
 
 // main route
-const response = (req, res) => '<h1>REST API JCWM1504</h1>'
+const response = (req, res) => res.status(200).send('<h1>REST API JCWM1504</h1>')
 app.get('/', response)
 
 // bind to local machine
