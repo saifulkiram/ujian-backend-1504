@@ -23,7 +23,7 @@ Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam men
 - jawaban soal akan dikumpulkan di dalam repositori ini dengan sistem ***pull request*** dan siswa wajib mengirim ***link*** dari ***forked repositoy*** ke alamat email berikut ini :<br>
 
     to : operational_jkt@purwadhika.com <br>
-    subject : JCWM-1504-FRONTEND
+    subject : JCWM-1504-BACKEND
 
 ## B. Exam Setup Guide
 - sebelum mengerjakan soal, lakukan ***fork*** untuk repositori ini
