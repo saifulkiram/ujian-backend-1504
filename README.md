@@ -25,7 +25,7 @@ Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam men
     to : operational_jkt@purwadhika.com <br>
     subject : JCWM-1504-BACKEND
 
-## B. Exam Setup Guide
+## B. Exam Setup
 - sebelum mengerjakan soal, lakukan ***fork*** untuk repositori ini
 
     ![guide_1](https://dm2302files.storage.live.com/y4mPM_i6lwI5k82Ir4gCZ_iG2pyP67UhSVdVDnXxY7pavQzUXOFoRhblnD7tH4UyyvIdMs5jKUeX04maDpMg8lm2xVybajcR4oKSo13SyRlQoizTsMIaBj1oRcS1X3hOXahuJ0S9RM64NNzskC016XEiY8SVoAORMWYw9twz0MNgzgebD8G-fqIiwFdk4n8KSky?width=597&height=341&cropmode=none)
@@ -62,7 +62,7 @@ Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam men
 
 - silahkan kerjakan soal yang telah diberikan, teknis pengumpulan soal akan menggunakan sistem *pull request*
 
-## C. Pull Request Guide
+## C. Pull Request
 - sebelum melakukan *pull request* ke repositori pusat (respositori asal), pastikan bahwa jawaban sudah sesuai dengan soal yang telah diberikan
 - masukan hasil *export database* dan *ER diagram* kalian ke dalam *folder* ujian kalian
 - pastikan bahwa anda telah menyimpan semua perubahan/*history* di *git*, untuk memastikannya lakukan perintah berikut ini di terminal/*cmd*
